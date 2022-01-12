@@ -405,7 +405,7 @@
 				DEVELOPMENT_TEAM = KQ547878C8;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HomeWorkAnimationSpring/Support/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = SpringAnimation;
+				INFOPLIST_KEY_CFBundleDisplayName = SpringAnimationHome;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -435,7 +435,7 @@
 				DEVELOPMENT_TEAM = KQ547878C8;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HomeWorkAnimationSpring/Support/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = SpringAnimation;
+				INFOPLIST_KEY_CFBundleDisplayName = SpringAnimationHome;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
